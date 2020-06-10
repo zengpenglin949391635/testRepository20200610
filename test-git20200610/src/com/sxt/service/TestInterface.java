@@ -9,5 +9,5 @@ public interface TestInterface {
 	void m5();
 	void m10();
 	void m4();
-
+    void sxt();
 }
