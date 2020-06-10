@@ -10,4 +10,5 @@ public interface TestInterface {
 	void m10();
 	void m4();
     void sxt();
+    void maven();
 }
